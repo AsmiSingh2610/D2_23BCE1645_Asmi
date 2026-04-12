@@ -1,0 +1,17 @@
+DigiLand — Agile Methodology
+Property Registration System
+Iterative Sprint-Based Development Lifecycle
+
+Overview
+
+DigiLand follows the Agile Methodology, it delivers the property registration system through multiple sprints. Each sprint has six phases namely: Plan, Design, Develop, Test, Deploy, and Review. This ensures a continuous delivery.
+The core features are JWT authentication, SHA-256 property hashing, parallel data aggregation from DORIS/DLRC/CERSAI/MCA21, and Ethereum blockchain storage. They are built and validated more and more across sprints.
+
+Agile Principles Applied to DigiLand
+
+Iterative delivery:	Property registration features delivered sprint by sprint
+Customer collaboration:	Stakeholder reviews after each sprint demo
+Working software:	Each sprint produces testable API endpoints and UI
+Respond to change:	New government API requirements added to backlog anytime
+Continuous improvement:	Retrospectives improve team velocity each sprint
+Self-organizing teams:	Dev team owns frontend, backend, and blockchain tasks
